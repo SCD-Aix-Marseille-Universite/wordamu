@@ -1,6 +1,4 @@
 wordamu
 =======
 
-feuille de style thèse amu pour MS Word
-
-PDF final modifié avec jPdf Tweak : http://jpdftweak.sourceforge.net/
+Feuille de style thèses AMU pour MS Word.
