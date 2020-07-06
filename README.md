@@ -1,4 +1,4 @@
-wordamu
-=======
+Word AMU
+========
 
-Feuille de style thèses AMU pour MS Word.
+Feuille de style Microsoft Office Word pour les thèses AMU.
